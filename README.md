@@ -1,2 +1,4 @@
-# ssp-2016
-Summer Science Program '16: Astrophysics programs and orbital determination project
+# Summer Science Program (SSP) '16
+Created during the summer of 2016 for the Summer Science Program (summerscience.org). General astrophysics programs and an orbital determination project on the near-Earth asteroid, 2000 JQ66. Written entirely in Python.
+
+Feel free to look around or send me a question at stanley98yu@gmail.com!
